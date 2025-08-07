@@ -33,4 +33,3 @@ A browser-based Blackjack game built with **HTML**, **CSS**, and **JavaScript** 
 
 ---
 
-## 📂 Project Structure
